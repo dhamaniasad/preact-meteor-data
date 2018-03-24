@@ -1,7 +1,7 @@
 /* global Package */
 /* eslint-disable react/prefer-stateless-function */
 
-import React from 'react';
+import React from 'preact-compat';
 import { Meteor } from 'meteor/meteor';
 import { Tracker } from 'meteor/tracker';
 

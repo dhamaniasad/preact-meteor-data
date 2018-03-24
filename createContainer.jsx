@@ -3,7 +3,7 @@
  */
 
 import { Meteor } from 'meteor/meteor';
-import React from 'react';
+import React from 'preact-compat';
 import connect from './ReactMeteorData.jsx';
 
 let hasDisplayedWarning = false;

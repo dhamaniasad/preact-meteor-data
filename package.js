@@ -1,9 +1,9 @@
 Package.describe({
-  name: 'react-meteor-data',
-  summary: 'React higher-order component for reactively tracking Meteor data',
+  name: 'preact-meteor-data',
+  summary: 'Preact higher-order component for reactively tracking Meteor data',
   version: '0.2.16',
   documentation: 'README.md',
-  git: 'https://github.com/meteor/react-packages',
+  git: 'https://github.com/dhamaniasad/preact-meteor-data',
 });
 
 Package.onUse(function (api) {
