@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'preact-meteor-data',
+  name: 'asad:preact-meteor-data',
   summary: 'Preact higher-order component for reactively tracking Meteor data',
   version: '0.2.16',
   documentation: 'README.md',
